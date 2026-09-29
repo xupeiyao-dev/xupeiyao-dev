@@ -4,7 +4,7 @@
 </picture>
 
 <p>
-  <a href="mailto:e1513082@u.nus.edu">Email</a> &nbsp;·&nbsp;
+    📧 <code>xupeiyao [at] u.nus.edu</code> &nbsp;·&nbsp;
   <a href="https://orcid.org/0009-0001-6040-0562">ORCID</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/peiyao-xu-26b790352">LinkedIn</a>
   <!-- Add once they exist:
@@ -97,7 +97,7 @@ Turns long-term goals into dated tasks and puts the current one on an ESP32 desk
 <br><br>
 <a href="https://github.com/yyy3254422785-dev/mimimi-map">[Code]</a>
 &nbsp;<a href="assets/ShibaSteps-report.pdf">[Report]</a>
-&nbsp;<a href="https://mimimi-map.onrender.com">[Live app]</a>
+
 </td>
 </tr>
 </table>
