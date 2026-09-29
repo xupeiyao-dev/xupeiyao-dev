@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 396" width="830" height="396" role="img" aria-label="ShibaSteps user study: completion rate and average score for each of nine tasks. Daily check-in (70%, 5.45) and Streak and Bone Points (60%, 5.20) were weakest; Complete one task was strongest (100%, 8.40).">
+<title>ShibaSteps user study: completion rate and average score for each of nine tasks. Daily check-in (70%, 5.45) and Streak and Bone Points (60%, 5.20) were weakest; Complete one task was strongest (100%, 8.40).</title>
+<style>
+  .sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif}
+  .serif{font-family:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,"Times New Roman",serif}
+  .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace}
+</style>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1 1 L9 5 L1 9" fill="none" stroke="#656c76" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+<text x="0" y="24" class="sans" font-size="16" font-weight="600" fill="#f0f6fc">Task-level results · 20 participants × 9 tasks = 180 attempts</text>
+<rect x="0" y="38" width="10" height="10" rx="2" fill="#d95926"/>
+<text x="17" y="47.5" class="sans" font-size="13" fill="#9198a1">Rule- and reward-related tasks: 14 of the 34 failed attempts</text>
+<text x="216" y="84" class="sans" font-size="13" font-weight="600" fill="#f0f6fc">Completion rate</text>
+<line x1="216.0" y1="92" x2="216.0" y2="348" stroke="#3d444d" stroke-width="1"/>
+<text x="216.0" y="364" text-anchor="middle" class="sans" font-size="11" fill="#6e7681">0%</text>
+<line x1="341.0" y1="92" x2="341.0" y2="348" stroke="#3d444d" stroke-width="1"/>
+<text x="341.0" y="364" text-anchor="middle" class="sans" font-size="11" fill="#6e7681">50%</text>
+<line x1="466.0" y1="92" x2="466.0" y2="348" stroke="#3d444d" stroke-width="1"/>
+<text x="466.0" y="364" text-anchor="middle" class="sans" font-size="11" fill="#6e7681">100%</text>
+<path d="M 216.0 103.0 L 437.0 103.0 Q 441.0 103.0 441.0 107.0 L 441.0 113.0 Q 441.0 117.0 437.0 117.0 L 216.0 117.0 Z" fill="#3987e5"/>
+<text x="447.0" y="114.0" class="sans" font-size="11.5" fill="#9198a1" stroke="#0d1117" stroke-width="4" paint-order="stroke" style="font-variant-numeric:tabular-nums">90%</text>
+<path d="M 216.0 131.0 L 412.0 131.0 Q 416.0 131.0 416.0 135.0 L 416.0 141.0 Q 416.0 145.0 412.0 145.0 L 216.0 145.0 Z" fill="#3987e5"/>
+<text x="422.0" y="142.0" class="sans" font-size="11.5" fill="#9198a1" stroke="#0d1117" stroke-width="4" paint-order="stroke" style="font-variant-numeric:tabular-nums">80%</text>
+<path d="M 216.0 159.0 L 462.0 159.0 Q 466.0 159.0 466.0 163.0 L 466.0 169.0 Q 466.0 173.0 462.0 173.0 L 216.0 173.0 Z" fill="#3987e5"/>
+<text x="472.0" y="170.0" class="sans" font-size="11.5" fill="#9198a1" stroke="#0d1117" stroke-width="4" paint-order="stroke" style="font-variant-numeric:tabular-nums">100%</text>
+<path d="M 216.0 187.0 L 412.0 187.0 Q 416.0 187.0 416.0 191.0 L 416.0 197.0 Q 416.0 201.0 412.0 201.0 L 216.0 201.0 Z" fill="#3987e5"/>
+<text x="422.0" y="198.0" class="sans" font-size="11.5" fill="#9198a1" stroke="#0d1117" stroke-width="4" paint-order="stroke" style="font-variant-numeric:tabular-nums">80%</text>
+<path d="M 216.0 215.0 L 412.0 215.0 Q 416.0 215.0 416.0 219.0 L 416.0 225.0 Q 416.0 229.0 412.0 229.0 L 216.0 229.0 Z" fill="#3987e5"/>
+<text x="422.0" y="226.0" class="sans" font-size="11.5" fill="#9198a1" stroke="#0d1117" stroke-width="4" paint-order="stroke" style="font-variant-numeric:tabular-nums">80%</text>
+<path d="M 216.0 243.0 L 387.0 243.0 Q 391.0 243.0 391.0 247.0 L 391.0 253.0 Q 391.0 257.0 387.0 257.0 L 216.0 257.0 Z" fill="#d95926"/>
+<text x="397.0" y="254.0" class="sans" font-size="11.5" fill="#9198a1" stroke="#0d1117" stroke-width="4" paint-order="stroke" style="font-variant-numeric:tabular-nums">70%</text>
+<path d="M 216.0 271.0 L 362.0 271.0 Q 366.0 271.0 366.0 275.0 L 366.0 281.0 Q 366.0 285.0 362.0 285.0 L 216.0 285.0 Z" fill="#d95926"/>
+<text x="372.0" y="282.0" class="sans" font-size="11.5" fill="#9198a1" stroke="#0d1117" stroke-width="4" paint-order="stroke" style="font-variant-numeric:tabular-nums">60%</text>
+<path d="M 216.0 299.0 L 437.0 299.0 Q 441.0 299.0 441.0 303.0 L 441.0 309.0 Q 441.0 313.0 437.0 313.0 L 216.0 313.0 Z" fill="#3987e5"/>
+<text x="447.0" y="310.0" class="sans" font-size="11.5" fill="#9198a1" stroke="#0d1117" stroke-width="4" paint-order="stroke" style="font-variant-numeric:tabular-nums">90%</text>
+<path d="M 216.0 327.0 L 412.0 327.0 Q 416.0 327.0 416.0 331.0 L 416.0 337.0 Q 416.0 341.0 412.0 341.0 L 216.0 341.0 Z" fill="#3987e5"/>
+<text x="422.0" y="338.0" class="sans" font-size="11.5" fill="#9198a1" stroke="#0d1117" stroke-width="4" paint-order="stroke" style="font-variant-numeric:tabular-nums">80%</text>
+<text x="540" y="84" class="sans" font-size="13" font-weight="600" fill="#f0f6fc">Average score (1–10)</text>
+<line x1="540.0" y1="92" x2="540.0" y2="348" stroke="#3d444d" stroke-width="1"/>
+<text x="540.0" y="364" text-anchor="middle" class="sans" font-size="11" fill="#6e7681">0</text>
+<line x1="665.0" y1="92" x2="665.0" y2="348" stroke="#3d444d" stroke-width="1"/>
+<text x="665.0" y="364" text-anchor="middle" class="sans" font-size="11" fill="#6e7681">5</text>
+<line x1="790.0" y1="92" x2="790.0" y2="348" stroke="#3d444d" stroke-width="1"/>
+<text x="790.0" y="364" text-anchor="middle" class="sans" font-size="11" fill="#6e7681">10</text>
+<path d="M 540.0 103.0 L 741.0 103.0 Q 745.0 103.0 745.0 107.0 L 745.0 113.0 Q 745.0 117.0 741.0 117.0 L 540.0 117.0 Z" fill="#3987e5"/>
+<text x="751.0" y="114.0" class="sans" font-size="11.5" fill="#9198a1" stroke="#0d1117" stroke-width="4" paint-order="stroke" style="font-variant-numeric:tabular-nums">8.20</text>
+<path d="M 540.0 131.0 L 734.8 131.0 Q 738.8 131.0 738.8 135.0 L 738.8 141.0 Q 738.8 145.0 734.8 145.0 L 540.0 145.0 Z" fill="#3987e5"/>
+<text x="744.8" y="142.0" class="sans" font-size="11.5" fill="#9198a1" stroke="#0d1117" stroke-width="4" paint-order="stroke" style="font-variant-numeric:tabular-nums">7.95</text>
+<path d="M 540.0 159.0 L 746.0 159.0 Q 750.0 159.0 750.0 163.0 L 750.0 169.0 Q 750.0 173.0 746.0 173.0 L 540.0 173.0 Z" fill="#3987e5"/>
+<text x="756.0" y="170.0" class="sans" font-size="11.5" fill="#9198a1" stroke="#0d1117" stroke-width="4" paint-order="stroke" style="font-variant-numeric:tabular-nums">8.40</text>
+<path d="M 540.0 187.0 L 691.0 187.0 Q 695.0 187.0 695.0 191.0 L 695.0 197.0 Q 695.0 201.0 691.0 201.0 L 540.0 201.0 Z" fill="#3987e5"/>
+<text x="701.0" y="198.0" class="sans" font-size="11.5" fill="#9198a1" stroke="#0d1117" stroke-width="4" paint-order="stroke" style="font-variant-numeric:tabular-nums">6.20</text>
+<path d="M 540.0 215.0 L 709.8 215.0 Q 713.8 215.0 713.8 219.0 L 713.8 225.0 Q 713.8 229.0 709.8 229.0 L 540.0 229.0 Z" fill="#3987e5"/>
+<text x="719.8" y="226.0" class="sans" font-size="11.5" fill="#9198a1" stroke="#0d1117" stroke-width="4" paint-order="stroke" style="font-variant-numeric:tabular-nums">6.95</text>
+<path d="M 540.0 243.0 L 672.2 243.0 Q 676.2 243.0 676.2 247.0 L 676.2 253.0 Q 676.2 257.0 672.2 257.0 L 540.0 257.0 Z" fill="#d95926"/>
+<text x="682.2" y="254.0" class="sans" font-size="11.5" fill="#9198a1" stroke="#0d1117" stroke-width="4" paint-order="stroke" style="font-variant-numeric:tabular-nums">5.45</text>
+<path d="M 540.0 271.0 L 666.0 271.0 Q 670.0 271.0 670.0 275.0 L 670.0 281.0 Q 670.0 285.0 666.0 285.0 L 540.0 285.0 Z" fill="#d95926"/>
+<text x="676.0" y="282.0" class="sans" font-size="11.5" fill="#9198a1" stroke="#0d1117" stroke-width="4" paint-order="stroke" style="font-variant-numeric:tabular-nums">5.20</text>
+<path d="M 540.0 299.0 L 719.8 299.0 Q 723.8 299.0 723.8 303.0 L 723.8 309.0 Q 723.8 313.0 719.8 313.0 L 540.0 313.0 Z" fill="#3987e5"/>
+<text x="729.8" y="310.0" class="sans" font-size="11.5" fill="#9198a1" stroke="#0d1117" stroke-width="4" paint-order="stroke" style="font-variant-numeric:tabular-nums">7.35</text>
+<path d="M 540.0 327.0 L 718.5 327.0 Q 722.5 327.0 722.5 331.0 L 722.5 337.0 Q 722.5 341.0 718.5 341.0 L 540.0 341.0 Z" fill="#3987e5"/>
+<text x="728.5" y="338.0" class="sans" font-size="11.5" fill="#9198a1" stroke="#0d1117" stroke-width="4" paint-order="stroke" style="font-variant-numeric:tabular-nums">7.30</text>
+<text x="196" y="114.5" text-anchor="end" class="sans" font-size="13" font-weight="400" fill="#9198a1">Create a goal</text>
+<text x="196" y="142.5" text-anchor="end" class="sans" font-size="13" font-weight="400" fill="#9198a1">Add three tasks</text>
+<text x="196" y="170.5" text-anchor="end" class="sans" font-size="13" font-weight="400" fill="#9198a1">Complete one task</text>
+<text x="196" y="198.5" text-anchor="end" class="sans" font-size="13" font-weight="400" fill="#9198a1">Move a task to tomorrow</text>
+<text x="196" y="226.5" text-anchor="end" class="sans" font-size="13" font-weight="400" fill="#9198a1">View the moved task</text>
+<text x="196" y="254.5" text-anchor="end" class="sans" font-size="13" font-weight="600" fill="#f0f6fc">Daily check-in</text>
+<text x="196" y="282.5" text-anchor="end" class="sans" font-size="13" font-weight="600" fill="#f0f6fc">Streak &amp; Bone Points</text>
+<text x="196" y="310.5" text-anchor="end" class="sans" font-size="13" font-weight="400" fill="#9198a1">Browse Dog Circle</text>
+<text x="196" y="338.5" text-anchor="end" class="sans" font-size="13" font-weight="400" fill="#9198a1">Switch to another goal</text>
+</svg>
