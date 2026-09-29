@@ -4,7 +4,7 @@
 </picture>
 
 <p>
-  xupeiyao [at] u.nus.edu &nbsp;·&nbsp;
+    <a href="mailto:xupeiyao@u.nus.edu" title="xupeiyao@u.nus.edu">Email</a> &nbsp;·&nbsp;
   <a href="https://orcid.org/0009-0001-6040-0562">ORCID</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/peiyao-xu-26b790352">LinkedIn</a>
   <!-- Add once they exist:
