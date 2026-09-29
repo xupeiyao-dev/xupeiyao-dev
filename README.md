@@ -40,21 +40,6 @@ Before research, most of what I built sat between software and hardware: ESP32 a
 <i>Preprint</i>, 2026 &nbsp;·&nbsp; <a href="https://doi.org/10.6084/m9.figshare.33529048">[Paper]</a>
 
 What changes when a multimodal agent moves from computer-use to robot-use? We describe embodied agents by five recurring capabilities: **P**erceive, **A**nticipate, **P**lan, **A**ct and **V**erify. Across 64 benchmarks, evaluation centres on Act; only 5 assess Anticipate and 3 assess Verify.
-<td valign="top">
-<a href="https://doi.org/10.6084/m9.figshare.33529048"><b>Survey on Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use</b></a>
-<br>
-<sub>Yanzhe Chen, Ziyi Yang, Jifeng Zhu, Qiming Huang, Ruihe An, <b>Peiyao Xu</b>, Hesen Yang, Runda Liu, Chang Gong, Zhijun Cao, Zechen Bai, Wenzheng Zeng, Yiqi Lin, Guoqiang Liang, Kevin Yuchen Ma, Qinghong Lin, Mike Zheng Shou</sub>
-<br>
-<i>Preprint</i>, 2026
-<br><br>
-What changes when a multimodal agent moves from computer-use to robot-use? We describe embodied agents by five recurring capabilities: <b>P</b>erceive, <b>A</b>nticipate, <b>P</b>lan, <b>A</b>ct and <b>V</b>erify. Across 64 benchmarks, evaluation centres on Act; only 5 assess Anticipate and 3 assess Verify.
-<br><br>
-<a href="https://doi.org/10.6084/m9.figshare.33529048">[Paper]</a>
-<!-- &nbsp;<a href="https://arxiv.org/abs/XXXX.XXXXX">[arXiv]</a> -->
-<!-- &nbsp;<a href="https://github.com/USERNAME/Awesome-Embodied-Agent-Benchmarks">[Benchmark list]</a> -->
-</td>
-</tr>
-</table>
 
 <details>
 <summary><b>BibTeX</b></summary>
@@ -76,8 +61,6 @@ What changes when a multimodal agent moves from computer-use to robot-use? We de
 ```
 
 </details>
-
-## Selected Projects
 
 ## Selected Projects
 
@@ -105,8 +88,6 @@ Turns long-term goals into dated tasks and puts the current one on an ESP32 desk
 </td>
 </tr>
 </table>
-
-<details>
 
 <details>
 <summary><b>ShibaSteps user-study results by task</b></summary>
