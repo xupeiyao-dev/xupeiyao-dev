@@ -29,14 +29,17 @@ Before research, most of what I built sat between software and hardware: ESP32 a
 
 ## Publications
 
-<table>
-<tr>
-<td width="44%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/papav-dark.svg">
-  <img src="assets/papav-light.svg" width="100%" alt="PAPAV capability loop: Perceive, Anticipate, Plan, Act, Verify. Most benchmarks evaluate Act; only 5 of 64 assess Anticipate and 3 of 64 assess Verify.">
-</picture>
-</td>
+<p align="center">
+  <img src="assets/papav-overview.jpg" width="100%" alt="PAPAV overview: Perceive, Anticipate, Plan, Act and Verify, compared across multimodal agents, multimodal embodied agents and robotic systems.">
+</p>
+
+<a href="https://doi.org/10.6084/m9.figshare.33529048"><b>Survey on Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use</b></a>
+<br>
+<sub>Yanzhe Chen, Ziyi Yang, Jifeng Zhu, Qiming Huang, Ruihe An, <b>Peiyao Xu</b>, Hesen Yang, Runda Liu, Chang Gong, Zhijun Cao, Zechen Bai, Wenzheng Zeng, Yiqi Lin, Guoqiang Liang, Kevin Yuchen Ma, Qinghong Lin, Mike Zheng Shou</sub>
+<br>
+<i>Preprint</i>, 2026 &nbsp;·&nbsp; <a href="https://doi.org/10.6084/m9.figshare.33529048">[Paper]</a>
+
+What changes when a multimodal agent moves from computer-use to robot-use? We describe embodied agents by five recurring capabilities: **P**erceive, **A**nticipate, **P**lan, **A**ct and **V**erify. Across 64 benchmarks, evaluation centres on Act; only 5 assess Anticipate and 3 assess Verify.
 <td valign="top">
 <a href="https://doi.org/10.6084/m9.figshare.33529048"><b>Survey on Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use</b></a>
 <br>
@@ -76,6 +79,8 @@ What changes when a multimodal agent moves from computer-use to robot-use? We de
 
 ## Selected Projects
 
+## Selected Projects
+
 <table>
 <tr>
 <td width="44%" valign="top">
@@ -96,11 +101,12 @@ Turns long-term goals into dated tasks and puts the current one on an ESP32 desk
 <b>User study</b> · 20 participants × 9 tasks: <b>81.1%</b> of 180 attempts succeeded. Completing a task scored best (100%, 8.4/10), while check-in and reward rules accounted for 14 of the 34 failures: the gap was explaining rules, not the core interaction.
 <br><br>
 <a href="https://github.com/yyy3254422785-dev/mimimi-map">[Code]</a>
-&nbsp;<a href="assets/ShibaSteps-report.pdf">[Report]</a>
-
+&nbsp;<a href="https://github.com/xupeiyao-dev/xupeiyao-dev/blob/main/assets/ShibaSteps-report.pdf">[Report]</a>
 </td>
 </tr>
 </table>
+
+<details>
 
 <details>
 <summary><b>ShibaSteps user-study results by task</b></summary>
