@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" width="100%" alt="Peiyao Xu — Computer Engineering, National University of Singapore. Undergraduate researcher at Show Lab. Embodied agents, real-to-sim, robot evaluation.">
+  <img src="assets/header-light.svg" width="100%" alt="Xu Peiyao — Computer Engineering, National University of Singapore. Undergraduate researcher at Show Lab. Embodied agents, real-to-sim, robot evaluation.">
 </picture>
 
 <p>
@@ -15,7 +15,7 @@
 
 I'm a second-year Computer Engineering student at the **National University of Singapore** (Minor in Mathematics, Science & Technology Undergraduate Scholar) and an undergraduate researcher at **[Show Lab](https://sites.google.com/view/showlab)**, led by Prof. Mike Zheng Shou.
 
-I'm interested in **embodied agents**, systems that perceive, plan and act in the physical world, and in how we train and evaluate them. Right now I'm working on **real-to-sim**: turning real-world images and videos into interactive simulation environments where robot agents can be trained and tested.
+I'm interested in **embodied agents**, systems that perceive, plan and act in the physical world, and in how we train and evaluate them. 
 
 Before research, most of what I built sat between software and hardware: ESP32 and ATmega328P firmware, sensor-driven rescue robots, and a web app that stays in sync with a desk device.
 
